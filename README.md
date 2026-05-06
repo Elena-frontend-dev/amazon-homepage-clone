@@ -11,6 +11,7 @@ this is the clone of the amazon homepage built using
   -CSS3
 
   ## Project Status
+  <br>
   completed(UI Clone)
 
   #Author
